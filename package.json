@@ -1,0 +1,29 @@
+{
+    "name": "enytc",
+    "version": "0.2.0",
+    "title": "EnyTC Corporation",
+    "homepage": "http://enytc.com",
+    "description": "EnyTC's website",
+    "private": true,
+    "author": {
+        "name": "Christopher EnyTC",
+        "url": "http://chris.enytc.com",
+        "email": "chris@enytc.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/enytc/enytc.github.io.git"
+    },
+    "bugs": {
+        "url": "https://github.com/enytc/enytc.github.io/issues"
+    },
+    "licenses": "http://creativecommons.org/licenses/by/3.0/",
+    "scripts": {
+        "test": "echo \"No have tests\"",
+        "start": "serve -p 3000 -f favicon.ico"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "serve": "latest"
+    }
+}

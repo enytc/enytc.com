@@ -1,6 +1,6 @@
 /* TEAM */
 
-EnyTC: EnyTC Corporation.
+Enytc: Enytc Corporation.
 Site: http://enytc.com
 Twitter: @enytc
 Location: Stockholm, Sweden
@@ -10,14 +10,14 @@ Location: Stockholm, Sweden
 
 /* THANKS */
 
-Name: EnyTC.com
+Name: Enytc.com
 [...]
 
 
 
 /* SITE */
 
-Last update: 2016/08/8
+Last update: 2019/03/23
 Standards: HTML5, CSS3, JavaScript.
 Components: jQuery, Bootstrap.
 Software: VimR, Serve.

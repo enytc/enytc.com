@@ -1,4 +1,4 @@
-# EnyTC Corporation [![GH version](https://badge-me.herokuapp.com/api/gh/enytc/enytc.github.io.png)](http://badges.enytc.com/for/gh/enytc/enytc.github.io)
+# Enytc Corporation
 
 > Corporate website
 
